@@ -6,7 +6,7 @@ public class Account {
 		// TODO Auto-generated method stub
 		Customer obj = new Customer();//only one object  
 		
-		//instances of object
+		//created instances
 		Thread1 t1=new Thread1(obj);  
 		Thread2 t2=new Thread2(obj);  
 
